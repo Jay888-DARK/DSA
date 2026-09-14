@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jay888-DARK/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Jay888-DARK/DSA/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Jay888-DARK/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
